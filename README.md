@@ -1,10 +1,10 @@
 ### Hi there 👋
-😁 I’m @PaleSnow027
+😁 I’m __*@PaleSnow027*__
 👀 I’m interested in augmented & virtual reality and ANIMES!
 🌱 I’m currently learning java, python
 💞️ I’m looking to collaborate on ...
 📫 How to reach me - saiprudhvi.ksp@gmail.com
-
+hnegjijws
 <!--
 **PaleSnow027/PaleSnow027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
