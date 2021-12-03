@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 I’m @PaleSnow027
+😁 I’m @PaleSnow027
 👀 I’m interested in augmented & virtual reality and ANIMES!
 🌱 I’m currently learning java, python
 💞️ I’m looking to collaborate on ...
