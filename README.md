@@ -1,5 +1,5 @@
 ### Hi there 👋
-😁 I’m __*@PaleSnow027*__  
+😁 I’m __*@palesnow027*__  
 👀 I’m interested in augmented & virtual reality and ANIMES!  
 🌱 I’m currently learning java, python  
 📫 How to reach me - saiprudhvi.ksp@gmail.com  
