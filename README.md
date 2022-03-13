@@ -1,7 +1,6 @@
 ### Hi there 👋
 😁 I’m __*@palesnow027*__  
 👀 I’m interested in augmented & virtual reality and ANIMES!  
-🌱 I’m currently learning java, python  
 📫 How to reach me - saiprudhvi.ksp@gmail.com  
 <!--
 **PaleSnow027/PaleSnow027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
